@@ -1,0 +1,23 @@
+---
+title: "Aditya Dahiya"
+image: "aditya-dahiya.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/dr-aditya-dahiya-ias/"
+  - label: Twitter
+    url: "https://twitter.com/AdityaDahiyaIAS"
+  - label: GitHub
+    url: "https://github.com/Aditya-Dahiya"
+  - label: Email
+    url: "mailto: adityadahiyaaiims@proton.me"
+output:
+  postcards::trestles
+---
+
+Hello. I am Aditya Dahiya, an Indian Administrative Service Officer working in Chandigarh. I enjoy data visualization and health data-science as an avocation. Here are some of my works:
+
+1.  [Solutions](https://aditya-dahiya.github.io/RfDS2solutions/) to R for Data Science (2nd Edition) by Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund.
+
+2.  [Solutions](https://github.com/Aditya-Dahiya/ISLR-Solutions-Aditya-Dahiya "GitHub Repo for Solutions") to the Book *An Introduction to Statistical Learning: With Applications in R* by Daniela Witten, Gareth M. James, Trevor Hastie, Robert Tibshirani.
+
+3.  An ArcGIS [story](https://storymaps.arcgis.com/stories/d38a1bd805204c17b1b9a26a632889b0) I did as a project at Harvard Kennedy School.
