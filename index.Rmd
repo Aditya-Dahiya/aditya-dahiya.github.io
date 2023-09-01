@@ -14,10 +14,10 @@ output:
   postcards::trestles
 ---
 
-Hello. I am Aditya Dahiya, an Indian Administrative Service Officer working in Chandigarh. I enjoy data visualization and health data-science as an avocation. Here are some of my works:
+Greetings, I'm Aditya Dahiya. By day, I wrangle bureaucracy, but by night, I'm the data wizard conjuring up visual delights and diving deep into health data science. This website is my gallery of creations. So, channel your inner Sherlock and embark on an adventure of discovery! Here are some of my works:
 
 1.  [Solutions](https://aditya-dahiya.github.io/RfDS2solutions/) to R for Data Science (2nd Edition) by Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund.
 
-2.  [Solutions](https://github.com/Aditya-Dahiya/ISLR-Solutions-Aditya-Dahiya "GitHub Repo for Solutions") to the Book *An Introduction to Statistical Learning: With Applications in R* by Daniela Witten, Gareth M. James, Trevor Hastie, Robert Tibshirani.
+2.  [Solutions](https://aditya-dahiya.github.io/ISLR1solutions/) to the Book *An Introduction to Statistical Learning: With Applications in R, 1^st^ edition* by Daniela Witten, Gareth M. James, Trevor Hastie, Robert Tibshirani.
 
 3.  An ArcGIS [story](https://storymaps.arcgis.com/stories/d38a1bd805204c17b1b9a26a632889b0) I did as a project at Harvard Kennedy School.
