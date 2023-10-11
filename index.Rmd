@@ -16,10 +16,8 @@ output:
 
 Greetings, I'm Aditya Dahiya. By day, I wrangle bureaucracy, but by night, I'm the data wizard conjuring up visual delights and diving deep into health data science. This website is my gallery of creations. So, channel your inner Sherlock and embark on an adventure of discovery! Here are some of my works:
 
-1.  [FaNoOp](https://aditya-dahiya.github.io/FaNoOp/) (**Facts! Not Opinions!**) - my un-opinionated blog on insights from publicly avaialble data.
+1.  [FaNoOp](https://aditya-dahiya.github.io/FaNoOp/) (**Facts! Not Opinions!**) - my un-opinionated blog on insights from publicly available data.
 
 2.  [Solutions](https://aditya-dahiya.github.io/RfDS2solutions/) to R for Data Science (2nd Edition) by Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund.
 
 3.  [Solutions](https://aditya-dahiya.github.io/ISLR1solutions/) to the Book *An Introduction to Statistical Learning: With Applications in R, 1^st^ edition* by Daniela Witten, Gareth M. James, Trevor Hastie, Robert Tibshirani.
-
-4.  An ArcGIS [story](https://storymaps.arcgis.com/stories/d38a1bd805204c17b1b9a26a632889b0) I did as a project at Harvard Kennedy School.
