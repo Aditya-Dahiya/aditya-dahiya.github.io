@@ -18,6 +18,8 @@ Greetings, I'm Aditya Dahiya. By day, I wrangle bureaucracy, but by night, I'm t
 
 1.  [FaNoOp](https://aditya-dahiya.github.io/FaNoOp/) (**Facts! Not Opinions!**) - my un-opinionated blog on insights from publicly available data.
 
-2.  [Solutions](https://aditya-dahiya.github.io/RfDS2solutions/) to R for Data Science (2nd Edition) by Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund.
+2.  [Solutions Manual](https://aditya-dahiya.github.io/RfDS2solutions/) of the book *R for Data Science (2nd Edition)* by [Hadley Wickham](https://hadley.nz/), [Mine Çetinkaya-Rundel](https://mine-cr.com/), [Garrett Grolemund](https://www.rstudio.com/authors/garrett-grolemund/).
 
-3.  [Solutions](https://aditya-dahiya.github.io/ISLR1solutions/) to the Book *An Introduction to Statistical Learning: With Applications in R, 1^st^ edition* by Daniela Witten, Gareth M. James, Trevor Hastie, Robert Tibshirani.
+3.  [Certain Solutions](https://aditya-dahiya.github.io/ISLR1solutions/) for the Book *An Introduction to Statistical Learning: With Applications in R, 1^st^ edition* by [Daniela Witten](https://www.danielawitten.com/), [Gareth M. James](https://www.garethmjames.com/), [Trevor Hastie](https://hastie.su.domains/), [Robert Tibshirani](https://tibshirani.su.domains/).
+
+4.  [Presentations](https://aditya-dahiya.github.io/session_presentations/presentations.html "https://aditya-dahiya.github.io/session_presentations/presentations.html") and [Projects](https://aditya-dahiya.github.io/session_presentations/projects.html "https://aditya-dahiya.github.io/session_presentations/projects.html") created by me for random assignments and talks.
