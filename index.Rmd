@@ -8,22 +8,22 @@ links:
     url: "https://twitter.com/AdityaDahiyaIAS"
   - label: GitHub
     url: "https://github.com/Aditya-Dahiya"
-  - label: Email
-    url: "mailto: adityadahiyaaiims@proton.me"
+  - label: e-Mail
+    url: "mailto:adityadahiyaaiims@proton.me"
 output:
   postcards::trestles
 ---
 
 Greetings, I'm Aditya Dahiya. By day, I wrangle bureaucracy, but by night, I'm the data wizard conjuring up visual delights and diving deep into health data science. This website is my gallery of creations. So, channel your inner Sherlock and embark on an adventure of discovery! Here are some of my works:
 
-1.  [FaNoOp](https://aditya-dahiya.github.io/FaNoOp/) (**Facts! Not Opinions!**) - my un-opinionated blog on insights from publicly available data.
+1.  My [**Data Visualizations**](https://aditya-dahiya.github.io/projects_presentations/data_vizs.html), [**Projects**](https://aditya-dahiya.github.io/projects_presentations/projects.html) and [**Presentations**](https://aditya-dahiya.github.io/projects_presentations/presentations.html).
 
-2.  [Presentations](https://aditya-dahiya.github.io/projects_presentations/presentations.html) and **some interesting [Projects](https://aditya-dahiya.github.io/projects_presentations/projects.html)** created by me for random assignments and talks.
+2.  [**FaNoOp**](https://aditya-dahiya.github.io/FaNoOp/) (**Facts! Not Opinions!**) - my un-opinionated blog on insights from publicly available data.
 
-3.  Academic books' solutions: --
+3.  Academic books' solutions that I have attempted: --
 
-    -   [Solutions Manual](https://aditya-dahiya.github.io/RfDS2solutions/ "https://aditya-dahiya.github.io/RfDS2solutions/") of the book *R for Data Science (2nd Edition)* by [Hadley Wickham](https://hadley.nz/), [Mine Çetinkaya-Rundel](https://mine-cr.com/), [Garrett Grolemund](https://www.rstudio.com/authors/garrett-grolemund/).
+    -   [**Solutions Manual**](https://aditya-dahiya.github.io/ggplot2book3e/ "https://aditya-dahiya.github.io/ggplot2book3e/") **(and much more!)** for the [third edition](https://ggplot2-book.org/ "ggplot2 Book (3rd Edition)") of *ggplot2: Elegant Graphics for Data Analysis (3e)* by [Hadley Wickham](https://hadley.nz/), [Danielle Navarro](https://djnavarro.net/), and [Thomas Lin Pedersen](https://www.data-imaginist.com/).
 
-    -   [Certain Solutions](https://aditya-dahiya.github.io/ISLR1solutions/ "https://aditya-dahiya.github.io/ISLR1solutions/") for the Book *An Introduction to Statistical Learning: With Applications in R, 1^st^ edition* by [Daniela Witten](https://www.danielawitten.com/), [Gareth M. James](https://www.garethmjames.com/), [Trevor Hastie](https://hastie.su.domains/), [Robert Tibshirani](https://tibshirani.su.domains/).
+    -   [**Solutions Manual**](https://aditya-dahiya.github.io/RfDS2solutions/ "https://aditya-dahiya.github.io/RfDS2solutions/") of the book *R for Data Science (2nd Edition)* by [Hadley Wickham](https://hadley.nz/), [Mine Çetinkaya-Rundel](https://mine-cr.com/), [Garrett Grolemund](https://www.rstudio.com/authors/garrett-grolemund/).
 
-    -   (An in-progress) [Solutions Manual](https://aditya-dahiya.github.io/ggplot2book3e/ "https://aditya-dahiya.github.io/ggplot2book3e/") and much more for the [third edition](https://ggplot2-book.org/ "ggplot2 Book (3rd Edition)") of *ggplot2: Elegant Graphics for Data Analysis (3e)* by [Hadley Wickham](https://hadley.nz/), [Danielle Navarro](https://djnavarro.net/), and [Thomas Lin Pedersen](https://www.data-imaginist.com/).
+    -   [**Solutions**](https://aditya-dahiya.github.io/ISLR1solutions/ "https://aditya-dahiya.github.io/ISLR1solutions/") for the Book *An Introduction to Statistical Learning: With Applications in R, 1^st^ edition* by [Daniela Witten](https://www.danielawitten.com/), [Gareth M. James](https://www.garethmjames.com/), [Trevor Hastie](https://hastie.su.domains/), [Robert Tibshirani](https://tibshirani.su.domains/).
