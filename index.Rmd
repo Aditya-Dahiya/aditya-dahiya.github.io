@@ -20,7 +20,9 @@ Greetings, I'm Aditya Dahiya. By day, I wrangle bureaucracy, but by night, I'm t
 
 2.  [**FaNoOp**](https://aditya-dahiya.github.io/FaNoOp/) (**Facts! Not Opinions!**) - my un-opinionated blog on insights from publicly available data.
 
-3.  Academic books' solutions that I have attempted: --
+3.  The [**visage**](https://aditya-dahiya.github.io/visage/): *Visualizing Information and Spatial Analysis with ggplot2 Extensions* - a website with Code and techniques.
+
+4.  Academic books' solutions that I have attempted: --
 
     -   [**Solutions Manual**](https://aditya-dahiya.github.io/ggplot2book3e/ "https://aditya-dahiya.github.io/ggplot2book3e/") **(and much more!)** for the [third edition](https://ggplot2-book.org/ "ggplot2 Book (3rd Edition)") of *ggplot2: Elegant Graphics for Data Analysis (3e)* by [Hadley Wickham](https://hadley.nz/), [Danielle Navarro](https://djnavarro.net/), and [Thomas Lin Pedersen](https://www.data-imaginist.com/).
 
